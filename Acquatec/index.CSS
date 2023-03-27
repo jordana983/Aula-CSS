@@ -41,3 +41,31 @@ body {
     width: fit-content;
     font-weight: 500;
 }
+
+.banner {
+    height: fit-content;
+    padding: 40xp 0;
+    color: white;
+    background-image: url(bg-jelly-fish-para_outras_pags.png);
+    background-size: cover;
+}
+.banner .container {
+    height: 400px;
+    font-size: 36px;
+    justify-content: center;
+    align-items: center;
+}
+
+.tamanho-conteudo {
+    height: fit-content;
+}
+
+.banner p{
+    margin: 0;
+    padding: 0;
+    width: 280px;
+}
+
+.banner .container span {
+    font-weight: 800;
+}
